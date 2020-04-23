@@ -16,7 +16,7 @@ public class verify extends Home_Pg {
 		login.Next1();
 		login.setPass("Sonia@123");
 		login.Next2();
-		Thread.sleep(5000);
+		Thread.sleep(3000);
 	}
 
 	}
